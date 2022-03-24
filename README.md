@@ -1,4 +1,4 @@
 # ubiquant
 
-Script for Kaggle competition Ubiquant market prediction '\n'
+Script for Kaggle competition Ubiquant market prediction.
 Solved with XGBoost
